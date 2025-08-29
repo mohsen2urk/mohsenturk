@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "mohsenturk",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "cee28712-6815-4e0e-a447-fbbc8b3aa666",
+      "database_name": "mohsenturk config"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
